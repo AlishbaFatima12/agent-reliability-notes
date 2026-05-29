@@ -234,13 +234,13 @@ Certified Agentic & Robotic AI Engineer programme. They are
 mentioned here only for context; they are not the subject of this
 repository.
 
-**Teach Me Panel** — a personalised LLM teaching agent on the
+**Teach Me Panel** - a personalised LLM teaching agent on the
 Panaversity Agent Factory platform. First system in which I
 attacked hallucination through structured prompting and
 human-in-the-loop checkpoints. Surfaced the deferral-vs-confidence
 trade-off in a tutoring context.
 
-**Personal AI Employee (Digital FTE)** — an agentic system for
+**Personal AI Employee (Digital FTE)** - an agentic system for
 autonomous monitoring and decision support, with the same emphasis
 on traceability, structured outputs, and auditable state. Test bed
 for separating the agent's instruction context from its execution
