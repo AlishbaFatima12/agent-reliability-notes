@@ -180,7 +180,7 @@ frequency of confident-wrong outputs; it does not eliminate them.
 Three questions follow directly from the observations above. These
 are the questions I want to spend a PhD answering.
 
-### Q1 — Calibrated abstention in multi-step agents
+### Q1 - Calibrated abstention in multi-step agents
 
 The two-regime failure reduces to a calibration problem at the gate.
 What does principled calibration of the triggering signal look like
@@ -190,7 +190,7 @@ work on selective classification (e.g. Rabanser & Papernot, NeurIPS
 2025) addresses this for single-step classifiers; the multi-step
 agentic case is less developed.
 
-### Q2 — Data attribution for fluent-but-incorrect outputs
+### Q2 - Data attribution for fluent-but-incorrect outputs
 
 When the agent reports success in fluent language unrelated to the
 action it took, which subsets of training data are responsible for
@@ -199,7 +199,7 @@ two attributable to different training-data influences, and if so,
 can they be selectively curated through methods such as those of
 Grosse et al. and Raffel et al.?
 
-### Q3 — Guarantees on constrained agentic pipelines
+### Q3 - Guarantees on constrained agentic pipelines
 
 Structured prompting and verification gates are practical
 interventions. What theoretical guarantees, if any, can be given
