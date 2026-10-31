@@ -4,7 +4,8 @@
 
 *The notes are open; the underlying product codebase is private. The evaluation that tests these notes is public, with code and data:
 [beepsme-verification-gate-eval](https://github.com/AlishbaFatima12/beepsme-verification-gate-eval)
-([interactive results](https://alishbafatima12.github.io/beepsme-verification-gate-eval/)).*
+([interactive results](https://alishbafatima12.github.io/beepsme-verification-gate-eval/);
+technical report: [doi:10.5281/zenodo.23840739](https://doi.org/10.5281/zenodo.23840739)).*
 
 > **Maintainer:** Syeda Alishba Fatima · Karachi, Pakistan
 > **Contact:** alishbafatima25@gmail.com
